@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">yasilhesab</string>
+    <string name="welcome">Xoş gəldin!</string>
+    <string name="subtitle">Ev enerjinə qənaət et</string>
+    <string name="email_label">Email</string>
+    <string name="email_placeholder">your@email.com</string>
+    <string name="password_label">Şifrə</string>
+    <string name="password_placeholder">••••••••</string>
+    <string name="login">Daxil ol</string>
+    <string name="forgot_password">Şifrəni unutdun?</string>
+    <string name="no_account">Hesabın yoxdur?</string>
+    <string name="register">Qeydiyyatdan keç</string>
+    <string name="email_empty">Email boş ola bilməz</string>
+    <string name="email_invalid">Email düzgün deyil</string>
+    <string name="password_empty">Şifrə boş ola bilməz</string>
+    <string name="password_short">Min. 6 simvol</string>
+</resources>

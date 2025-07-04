@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866635050423",
+    "project_id": "yasilhesab",
+    "storage_bucket": "yasilhesab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866635050423:android:27d2e193b92d75acc84c32",
+        "android_client_info": {
+          "package_name": "com.unsalgasimliapplicationsnsug.yasilhesab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KrsIhLUBGPYTJO2J8MMvAyNtL6ZY_t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
