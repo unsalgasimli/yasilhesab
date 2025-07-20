@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    val accent = Color(0xFF226E46)
+    val accentDark = Color(0xFF174930)
+    val accentLight = Color(0xFF3CD67B)
+    val surfaceCard = Color(0xFFF6F9FC)
+    val background = Color(0xFFF0F3F9)
+    val chipSelected = accent
+    val chipNormal = Color(0xFFE9F8F2)
+    val statShadow = Color(0x22000000)
+    val divider = Color(0xFFE3EAF2)
+    val textLight = Color(0xFF878B90)
+    val warning = Color(0xFFF96B53)
     <style name="Theme.Yasilhesab" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

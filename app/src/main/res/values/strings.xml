@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">yasilhesab</string>
+    <string name="app_name">Yaşıl Hesab</string>
     <string name="welcome">Xoş gəldin!</string>
     <string name="subtitle">Ev enerjinə qənaət et</string>
     <string name="email_label">Email</string>
@@ -14,4 +14,36 @@
     <string name="email_invalid">Email düzgün deyil</string>
     <string name="password_empty">Şifrə boş ola bilməz</string>
     <string name="password_short">Min. 6 simvol</string>
+    <string name="dashboard_title">YaşılHesab</string>
+    <string name="logout">Çıxış</string>
+    <string name="menu">Menyu</string>
+    <string name="home_setting">Otaq və Qurğu Ayarları</string>
+    <string name="bonuses">Bonuslar</string>
+    <string name="settings">Profil Ayarları</string>
+    <string name="profile">Profil</string>
+    <string name="all_rooms">Hamısı</string>
+    <string name="add_room">Otaq əlavə et</string>
+    <string name="add_device">Qurğu əlavə et</string>
+    <string name="no_devices">Bu otaqda qurğu yoxdur</string>
+    <string name="edit">Redaktə et</string>
+    <string name="delete">Sil</string>
+    <string name="type">Tip</string>
+    <string name="size">Ölçü (m²)</string>
+    <string name="save">Yadda saxla</string>
+    <string name="close">Bağla</string>
+    <string name="brand">Marka</string>
+    <string name="all_devices">Butun Cihazlar</string>
+    <string name="model">Model</string>
+    <string name="power">Güc (Watt)</string>
+    <string name="avg_hours_per_day">Orta saat/gün</string>
+    <string name="yearly_usage">Təxmini İllik İstifadə: %1$.1f kWh</string>
+    <string name="no_data">Məlumat yoxdur</string>
+    <string name="rooms_devices">Otaqlar və Qurğular</string>
+    <string name="profile_screen">Profil Ayarları</string>
+    <string name="user_name">Adınız</string>
+    <string name="user_nickname">İstifadəçi adı</string>
+    <string name="user_mail">E-poçt</string>
+    <string name="user_password">Şifrə</string>
+    <string name="user_avatar">Avatar</string>
+    <string name="save_changes">Dəyişiklikləri saxla</string>
 </resources>

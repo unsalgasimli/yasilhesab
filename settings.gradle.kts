@@ -16,9 +16,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven(url = "https://jitpack.io") // <-- BURA DAXİL ET!
     }
 }
 
 rootProject.name = "yasilhesab"
 include(":app")
- 
